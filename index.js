@@ -1,1 +1,3 @@
-console.log("trythis")
+console.error('HELP!');
+console.log("try this")
+
